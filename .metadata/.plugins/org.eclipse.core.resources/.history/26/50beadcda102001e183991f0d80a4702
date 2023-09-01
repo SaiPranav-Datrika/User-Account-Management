@@ -1,0 +1,13 @@
+package com.appswebmobileapps.ui;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MobileappwebApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MobileappwebApplication.class, args);
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.appswebmobile.ui.controller;
+
+public class UserController {
+
+}
